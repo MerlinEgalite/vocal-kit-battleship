@@ -2,18 +2,18 @@
 
 ## Objectif
 
-Créer un jeu de type bataille navale qui, grâce au **Kit Vocal Google AIY** ([lien](https://aiyprojects.withgoogle.com/voice/)), pourra être joué avec la voie
+Créer un jeu de type bataille navale qui, grâce au **Kit Vocal Google AIY** ([lien](https://aiyprojects.withgoogle.com/voice/)), pourra être joué avec la voix.
 
 ## Comment faire
 
 Creation du jeu (Affichage graphique, code du jeu)  
-Integration du AIY Vocal Kit pour permettre le controle vocale  
+Integration du AIY Vocal Kit pour permettre le contrôle vocale  
 
 ## Descriptif du projet
 
-Création d'un algorythme de Bataille Navale  
+Création d'un algorithme de Bataille Navale  
 Création d'une interface graphique intuitive   
-Création d'un algorythme permettant à la machine de jouer  
+Création d'un algorithme permettant à la machine de jouer  
 Création d'un code permettant de reconnaitre les directives du joueurs via le Kit vocal AIY  
 
 ## Version 
